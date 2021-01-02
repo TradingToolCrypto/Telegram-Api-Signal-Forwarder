@@ -1,0 +1,10 @@
+{
+    "tg": {
+        "app_id": 1234567,
+        "app_hash": "",
+        "phone_num": "",
+        "telegram_chats": [123456789,123456789],
+        "telegram_recievers": -123456789
+    }
+}
+
